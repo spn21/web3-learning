@@ -1,0 +1,3 @@
+[submodule "metatrustctf/lib/forge-std"]
+	path = metatrustctf/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
