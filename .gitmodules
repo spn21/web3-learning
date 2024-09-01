@@ -4,3 +4,6 @@
 [submodule "lib/ctf"]
 	path = lib/ctf
 	url = https://github.com/MetaTrustLabs/ctf
+[submodule "metatrustctf/lib/ctf"]
+	path = metatrustctf/lib/ctf
+	url = https://github.com/MetaTrustLabs/ctf
