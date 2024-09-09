@@ -10,7 +10,6 @@ contract DefiMazeTest is Test {
 
     function setUp() external {
         deployer = new SetUp();
-
     }
 
     function test_hackDefiMaze() external {
