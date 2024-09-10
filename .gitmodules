@@ -7,3 +7,6 @@
 [submodule "metatrustctf/lib/ctf"]
 	path = metatrustctf/lib/ctf
 	url = https://github.com/MetaTrustLabs/ctf
+[submodule "lib/blazctf-2023"]
+	path = lib/blazctf-2023
+	url = https://github.com/fuzzland/blazctf-2023
