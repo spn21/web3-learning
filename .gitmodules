@@ -10,3 +10,6 @@
 [submodule "lib/blazctf-2023"]
 	path = lib/blazctf-2023
 	url = https://github.com/fuzzland/blazctf-2023
+[submodule "blazctf/lib/forge-std"]
+	path = blazctf/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
