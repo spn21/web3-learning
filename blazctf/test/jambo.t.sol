@@ -15,7 +15,7 @@ contract Attack {
     function startAttack() public {
         address target = chall.target();
 
-        Jambo(target).start(0, bytes32(0));
+        Jambo(target).start(0, bytes32(0));//直接初始化掉，不知道会不会有别的解
 
         require(address(target).balance > 0, "Target has no funds");
 
